@@ -1,0 +1,37 @@
+.t1{
+    text-align: center;
+}
+.hr{
+    width: 450px;
+    color: black;
+}
+.t3{
+    text-align: center;
+}
+.div1{
+    text-align: center;
+}
+.input1{
+    height: 0px;
+    padding: 25px;
+    width: 250px;
+    font-size: 15px;
+    border-radius: 10px;
+
+}
+.sesion{
+    color: black;
+    background-color: rgb(126, 121, 129);
+    text-align: center;
+    padding: 20px;
+    width: 200px;
+    font-size: 15px;
+    border-radius: 10px;
+}
+.p1{
+    color: darkgray;
+}
+.iniciasesiontexto{
+    text-decoration: none;
+    color: rgb(11, 11, 240);
+}
